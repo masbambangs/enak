@@ -1,5 +1,5 @@
 {
-    "name": "Score-Match-hack-online-generator",
+    "name": "score-match-hack-online-generator",
     "description": "Hello everyone, we just released new score! match hack online." ,
 	"require": {
         "php": "^5.3.3 || ^7.0",
