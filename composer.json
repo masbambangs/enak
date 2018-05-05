@@ -1,0 +1,8 @@
+{
+    "name": "pubg-mobile-cheats/pubg-mobile-hack",
+    "description": "Hello everyone, we just released new PUBG Mobile Hack which will give you Unlimited BP & EXP." ,
+	"require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
